@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as n,a as o,v as c,n as d}from"./index-51a769bf.js";const _={__name:"Ibutton",props:{size:{default:"base"},active:{default:"primary"}},setup(e){return(t,r)=>(s(),n("div",null,[o("button",{class:d([[e.size,e.active],"btn"])},[c(t.$slots,"default",{},void 0,!0)],2)]))}},u=a(_,[["__scopeId","data-v-7dadc4db"]]);export{u as I};
